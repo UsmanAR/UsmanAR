@@ -1,17 +1,8 @@
-### Hi there 👋
-
-<!--
-**UsmanAR/UsmanAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 # 💫 About Me:
 
 - 🔭 I'm currently pursuing B.Tech in IT (3rd Year) from Government College of Engineering, Aurangabad<br>
 - 🌱 I do backend web development using NodeJS, EJS and MongoDB<br>
 - ⚡ I am looking for internships in web development.<br><br>
-
-
 
 
 
