@@ -2,7 +2,6 @@
 
 - 🔭 I'm currently pursuing B.Tech in IT (3rd Year) from Government College of Engineering, Aurangabad<br>
 - 🌱 I do backend web development using NodeJS, EJS and MongoDB<br>
-- ⚡ Lets connect  .<br><br>
 
 
 # 💻 Tech Stack:
