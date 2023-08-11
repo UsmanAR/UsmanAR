@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-- 🔭 I'm currently pursuing B.Tech in IT (3rd Year) from Government College of Engineering, Aurangabad<br>
-- 🌱 I do backend web development using NodeJS, EJS and MongoDB<br>
+- 🔭 I'm currently pursuing B.Tech in IT [Final Year]  from Government College of Engineering, Aurangabad<br>
+- 🌱 I specialize in backend web development using NodeJS, EJS, and MongoDB<br>
 
 
 # 💻 Tech Stack:
@@ -11,6 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UsmanAR#8407) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/usman-ar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/usman__ar) 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UsmanAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanAR&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
